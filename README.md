@@ -1,6 +1,6 @@
 # Task Manager Web App (Django + React)
 
-Simple full‑stack task app with auth, protected routes, and CRUD. Kept clean but not over‑engineered.
+Full-stack Task Manager built with Django + React (JWT Auth, CRUD, SQLite)
 
 ## Tech
 - **Backend**: Django 5, DRF, SimpleJWT, SQLite
